@@ -2,7 +2,7 @@
 
 ## Model rada na projektu
 (1) Nastavak rada na projektu iz kolegija "Razvoj Programskih Proizvoda"
-https://github.com/foivz/rpp22-kvardijan-fsostric20-ssmrcek20
+https://github.com/ssmrcek20/Chorium
 
 ## Opis projekta
 Roditelji bi željeli program u kojem bi mogli zadavati i pratiti svoje poslove i poslove svoje dijece. Česta je pojava da roditelji djeci zadaju neke kućanske poslove koji bi se trebali riješiti. To su poslovi poput čišćenja sobe, pranja suđa, košenje travnjaka itd. S obzirom da djeca sve više vremena provode za računalima, roditelji bi željeli da djeca mogu i tamo vidjeti svoje obaveze. Djeci bi također bilo lakše pratiti što trebaju učiniti pomoću neke aplikacije kako nebi slučajno zaboravili. Ovo softwaresko rješenje bi rješavalo taj problem.
